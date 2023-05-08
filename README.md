@@ -19,7 +19,7 @@ Na seção seguinte, que contém os streamers favoritos, ao clicar em qualquer u
 
 ![image](https://user-images.githubusercontent.com/113641883/236935939-211aaee0-714b-472f-aad6-9f326bd482b3.png)
 
-Por fim, na parte inferior da página, onda se encontram os ícones das redes sociais do usuário, ao clicar-se em qualquer uma deles, o usuário é levado a respectiva rede social.
+Por fim, na parte inferior da página, onda se encontram os ícones das redes sociais do usuário, ao clicar-se em qualquer um deles, o usuário é levado a respectiva rede social.
 
 As imagens a seguir mostram isso:
 
